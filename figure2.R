@@ -17,9 +17,6 @@ anscombe2 = anscombe %>%
   select(-yNumber) %>%
   mutate(setNumber = paste('Set', setNumber))
 
-library('Cairo')
-# CairoWin()
-
 ggplot(anscombe2, aes(x=x, y=y)) +
   geom_point(size=4, alpha = 0.5, color='#E41A1C') +
   geom_smooth(method="lm", fill=NA, fullrange=TRUE, size=1, color='#377EB8') +
