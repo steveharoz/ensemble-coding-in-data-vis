@@ -2,7 +2,7 @@
 Code to generate some of the figures in the JOV article [Four types of ensemble coding in data visualizations](http://jov.arvojournals.org/article.aspx?articleid=2504104)
 
 **Citation:**  
-Danielle Albers Szafir, Steve Haroz, Michael Gleicher, Steven Franconeri.  
+[Danielle Albers Szafir](https://github.com/dnalbers), [Steve Haroz](https://github.com/steveharoz), [Michael Gleicher](https://github.com/gleicher), Steven Franconeri.  
 Four types of ensemble coding in data visualizations.  
 Journal of Vision 2016; 16(5):11
 
