@@ -1,4 +1,4 @@
-# ensemble-coding-in-data-vis
+# Four types of ensemble coding in data visualizations
 Code to generate some of the figures in the JOV article [Four types of ensemble coding in data visualizations](http://jov.arvojournals.org/article.aspx?articleid=2504104)
 
 **Citation:** Danielle Albers Szafir, Steve Haroz, Michael Gleicher, Steven Franconeri  
