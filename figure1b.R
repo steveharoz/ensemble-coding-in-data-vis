@@ -4,7 +4,7 @@ library(lubridate)
 library(ggplot2)
 
 # number of months
-MONTHS = 8
+MONTHS = 6
 
 # make a dataframe of days
 data = data.frame(
